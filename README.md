@@ -1,4 +1,4 @@
 # First-Repo
-Author=Namrata Pradhan
+Author=Namrata Subhash Pradhan
 <br>
 Date=14-2-2024
